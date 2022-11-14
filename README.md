@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ramon. I major in Medicine, but I'm interested in programming. 
-- I find that people in computer science field are somehow more innovative than people around me in the medicine field. To me, learning programming is a kind of relaxation which enables me to get out of the rigid life as a medical student.
-- 👀 I’m currently learning Javascript.
+- 👋 Hi！ I’m Ramon, a medical student from China. Programming is my hobby. I'm learning front-end development now.  
 
-- 📫 This is my email address: ramonandcr@gmail.com. Feel free to contact.
+- 👀 I’m currently learning HTML, CSS and Javascript.
+
+- 📫 My email address: ramon@rara.moe. 
+- 🌍 My blog: https://rara.moe.
 
 <!---
 Ramonade/Ramonade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
