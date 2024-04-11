@@ -3,7 +3,7 @@
 - 👀 I’m currently learning HTML, CSS and Javascript.
 
 - 🌍 My blog: https://rara.moe.
-- 📫 My email address: ramon@rara.moe. 
+- 📫 My email address: ramonandcr@gmail.com. 
 
 
 <!---
